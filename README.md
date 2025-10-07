@@ -92,7 +92,8 @@ int main()
 
 <img width="502" height="527" alt="image" src="https://github.com/user-attachments/assets/71b46bd4-4d62-4e12-bac6-c74b643595bb" />
 
-![Uploading image.png…]()
+<img width="770" height="686" alt="image" src="https://github.com/user-attachments/assets/af15dc71-c3f7-4f35-b759-393c26d98e79" />
+
 
 
 # RESULT:
